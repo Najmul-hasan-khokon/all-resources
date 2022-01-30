@@ -1,0 +1,22 @@
+      // Javascript Day
+
+Variable, if else , array, for loop, while loop, function, object
+Let, const, Spread operator, Destructure {object, array} ,
+Arrow function , default peramiter, template string letaral,
+map, filter, find,
+local storage, session storage,
+Fetch { Get vs Post},
+
+
+module: 12 getting started with javascript,
+module: 13 javascript fundamental concepts,
+module: 23 modern javascript ES6, ES2015,
+module: 24 intermadiete javasrcipt , interview questions,
+module: 25 API JSON Server, Data load, dynamic website Http,
+
+// API er website
+json placeholder
+randomuser.me namok ekta fack api server ache. 
+boredapi.com namok arekta ache.
+restcountries api
+newsapi.org

@@ -1,0 +1,64 @@
+react extension pack // sob extension ek sathe thakbe.
+
+auto suggetion boostrap extension
+      IntelliSense for CSS class names in HTML
+
+
+
+npm install --save-dev sass
+npm install bootstrap
+
+npm install @fortawesome/fontawesome-free OR
+yarn add @fortawesome/fontawesome-free
+
+
+Write your CSS rules without vendor prefixes
+npm istall autoprefixer
+
+
+script tag e dite hobe
+"start": "sass --watch scss:assets/css"
+
+bootstrap icon
+https://icons.getbootstrap.com/
+
+
+
+// popup kore video dekhanor jonno
+     https://biati-digital.github.io/glightbox/ === glightbox
+
+
+   // eta small screen e nav contact button ta hide hobe
+   // @include media-breakpoint-down/up(sm)
+.btn_rounded {
+  @include media-breakpoint-down(sm) {
+    display: none;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,56 @@
+<i class="bi bi-plus-circle"></i>
+
+
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-plus-circle" viewBox="0 0 16 16">
+  <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
+  <path d="M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z"/>
+</svg>
+
+photopea
+freephototool.com
+
+typing.com
+
+stackoverflow
+medium.com
+html5weekly.com
+cssweekly.com
+javascriptweekly.com
+wedeveloperweekly.com
+
+
+
+emmet cheat sheet // visual studio code er emmet. on google.chrome e
+
+
+// just tab click korlei cursor change hobe.
+<a href="services">fkldf</a> 
+
+// spelling thik rakhar jonno.
+vs code extensions
+     spell checker
+     javascript 3s6 code snippets
+
+
+c+l = website er url select hoye jabe.
+c+shift+p = all setings command
+alt+shift+ right arrow for select word // multi cursor copy kore paste o kora jay.
+ctrl+shift+o // diye source code theke kono ekta code ke filter out korte pari.
+Esc // button click korle console o open hobe. ete kore dev tool e ekdink tap open hobe.
+ctrl+shift+f // dile souce er file gula filter korte parbo.
+
+
+
+// console
+   document
+console.log(document.body)
+   debugger
+
+
+
+
+kleki.com // etate aka aki korte parbo.
+
+
+dev tools tips // umar.com  // eta dekbo
+
