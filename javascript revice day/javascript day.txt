@@ -20,3 +20,4 @@ randomuser.me namok ekta fack api server ache.
 boredapi.com namok arekta ache.
 restcountries api
 newsapi.org
+pexels.com   // ekhan theke condition er upor search kore image ba video dekhano jay.

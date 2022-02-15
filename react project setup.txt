@@ -7,6 +7,8 @@
 
 
 1: prettier or eslink install kora thakte hobe that's it.
+    and setting e giye default formatter likhe search kore default code 
+     formatter prettier kore dite hobe.
 
 
 
@@ -20,8 +22,19 @@
     "source.organizeImports": true
   },
   "javascript.validate.enable": false,
-  "typescript.validate.enable": false
+  "typescript.validate.enable": false,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  }
 }
+
+
+“auto complete html tags in react vscode” Code Answer.
+"emmet.includeLanguages": {
+     "javascript": "javascriptreact"   
+        
+    },
+
 
 
 

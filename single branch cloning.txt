@@ -1,0 +1,4 @@
+
+-b lesson-11 : single branch clone korte caile.
+
+git clone -b lesson-11 :   git clone -b lesson-11 https://github.com/learnwithsumit/react-quiz.git
